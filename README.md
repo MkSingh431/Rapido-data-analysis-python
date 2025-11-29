@@ -1,7 +1,7 @@
 # 🚖 Rapido Ride Analytics Dashboard
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://rapido-data-analysis-project.streamlit.app/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MkSingh431/Rapido/graphs/commit-activity)
 
